@@ -13,4 +13,4 @@ author: GiantQuartz
 website: http://twitter.com/GiantQuartz
 main: SkyBlock\SkyBlock
 version: "0.1.9"
-api: [3.0.0-ALPHA11]
+api: [3.0.0-ALPHA11, 3.0.0-ALPHA12]
