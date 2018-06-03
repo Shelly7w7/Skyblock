@@ -30,7 +30,7 @@ class SkyBlockCommand extends Command {
     }
 
     public function sendMessage(Player $sender, $message) {
-        $sender->sendMessage(TextFormat::GREEN . "- " . TextFormat::WHITE . $message);
+        $sender->sendMessage(TextFormat::GREEN . "[+] " . TextFormat::WHITE . $message);
     }
 
     public function execute(CommandSender $sender, string $commandLabel, array $args) {
