@@ -1,4 +1,5 @@
 # SkyBlock
+This Plugin is NOT by me, its by @GiantQuartz, I am just keeping it updated. 
 SkyBlock for PocketMine-MP servers.
 ### Contributions
 You are free to contribute to this project, any kind of help is accepted.
